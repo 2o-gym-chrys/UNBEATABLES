@@ -3,7 +3,8 @@
 Η ομαδάρα μας ονομάζεται **"UNπαίκτABLES"**
 
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/1sStsxYkS7A)
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=1sStsxYkS7A)
+
 
 
 
