@@ -2,6 +2,12 @@
 
 Η ομαδάρα μας ονομάζεται **"UNπαίκτABLES"**
 
+<video width="600" controls>
+  <source src="ΠΑΡΟΥΣΙΑΣΗ UNBEATABLES.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+
 και, επειδή το **"άπαιχτοι"** δεν μπορεί να μεταφραστεί ακριβώς στα αγγλικά, στο λογότυπο μας χρησιμοποιούμε το **"UNBEATABLES"**.
 Ο τίτλος του πρότζεκτ μας είναι:
 
