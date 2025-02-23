@@ -3,11 +3,6 @@
 Η ομαδάρα μας ονομάζεται **"UNπαίκτABLES"**
 
 
-[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=1sStsxYkS7A)
-
-
-
-
 και, επειδή το **"άπαιχτοι"** δεν μπορεί να μεταφραστεί ακριβώς στα αγγλικά, στο λογότυπο μας χρησιμοποιούμε το **"UNBEATABLES"**.
 Ο τίτλος του πρότζεκτ μας είναι:
 
@@ -99,7 +94,7 @@
 Πατήστε στην παρακάτω εικόνα και παρακολουθήστε την βίντεο παραουσίασή μας.
 
 
-[![Παρακολουθήστε το βίντεο](videopresentation)](https://blogs.sch.gr/gxanthopou/2025/02/23/7os-panellinios-mathitikos-diagonismos-anoichton-technologion-gia-tin-ekpaideysi/)
+[![Παρακολουθήστε το βίντεο](videopresentation)](https://youtu.be/1sStsxYkS7A)
 
 
 
