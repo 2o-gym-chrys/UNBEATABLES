@@ -370,9 +370,6 @@ _Καθρέφτης 2:_ Μην με ρωτήσεις αν υπάρχει πιο 
 **UNπαικτABLES**
 
 
-[![Watch the video](https://your-thumbnail-url.com/image.jpg)](https://blogs.sch.gr/gxanthopou/2025/02/23/7os-panellinios-mathitikos-diagonismos-anoichton-technologion-gia-tin-ekpaideysi/))
-
-ΠΑΡΟΥΣΙΑΣΗ UNBEATABLES.mp4
 
 **Υ.Γ.** Δεσμευόμαστε ότι με την ολοκλήρωση του έργου τους θα παραδώσουμε αναλυτικές οδηγίες κατασκευής με βάση το OER Canvas, για να μπορεί το έργο μας να είναι επαναχρησιμοποιήσιμο και από άλλα σχολεία.
 
