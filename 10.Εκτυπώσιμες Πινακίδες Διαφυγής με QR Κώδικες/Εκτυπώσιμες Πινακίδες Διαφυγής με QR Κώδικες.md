@@ -4,6 +4,9 @@
 
 Κόστος: 0,1 ευρώ (Η τιμή του αυτοκόλλητου Α4.Θα το φτιάξουμε εμείς).
 
+![QR Code Example](https://github.com/2o-gym-chrys/UNBEATABLES/blob/main/10.%CE%95%CE%BA%CF%84%CF%85%CF%80%CF%8E%CF%83%CE%B9%CE%BC%CE%B5%CF%82%20%CE%A0%CE%B9%CE%BD%CE%B1%CE%BA%CE%AF%CE%B4%CE%B5%CF%82%20%CE%94%CE%B9%CE%B1%CF%86%CF%85%CE%B3%CE%AE%CF%82%20%CE%BC%CE%B5%20QR%20%CE%9A%CF%8E%CE%B4%CE%B9%CE%BA%CE%B5%CF%82/QR%20CODE%20%CE%9F%CE%94%CE%97%CE%93%CE%99%CE%95%CE%A3%20%CE%A3%CE%95%CE%99%CE%A3%CE%9C%CE%9F%CE%A3%20%CE%A6%CE%A9%CE%A4%CE%99%CE%91.png?raw=true)
+
+
 
 Ο QR Κώδικας δημιουργήθηκε με:
 
