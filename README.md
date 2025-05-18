@@ -367,27 +367,27 @@ https://www.youtube.com/c/MarvelHQ
 
 **1.Τα υλικά για τους αυτοματισμούς**
 
-LCD MODULE Basic 16x2 Character LCD - White on Blue 5V (I2C Protocol) INTERFACE  
+LCD MODULE Basic 16x2 Character LCD - White on Blue 5V (I2C Protocol) INTERFACE  €4.72
 
-Buzzer 5V 
+Buzzer 5V €1.28
 
-Jumper Wires 15cm Female to Male - Pack of 10 (Mix)
+Jumper Wires 15cm Female to Male - Pack of 10 (Mix)  €1.44 και κάποια υπήρχαν στο σχολείο.
 
-LED Diffused 5mm Κόκκινο  
+LED Diffused 5mm Κόκκινο  €0.08
 
-Speaker - 3" Diameter - 4 Ohm 3 Watt 
+Speaker - 3" Diameter - 4 Ohm 3 Watt €2.08 τελικά χρησιμοποιήσαμε δικό μας
 
-ARDUINO Uno SMD Compatible - CH340  
+ARDUINO Uno SMD Compatible - CH340  €7.90
 
-Voice Playback / MP3 Player Module with 5W Amplifier 
+Voice Playback / MP3 Player Module with 5W Amplifier €6.32
 
-Αισθητήρας Υγρασίας Εδάφους SOIL HYGROMETER MODULE
+Αισθητήρας Υγρασίας Εδάφους SOIL HYGROMETER MODULE €1.51
 
-Αισθητήρας Υπερήχων ULTRASONIC SENSOR 2 - 450cm HY-SRF05  
+Αισθητήρας Υπερήχων ULTRASONIC SENSOR 2 - 450cm HY-SRF05  €2.88
 
-Βασικό Κιτ Αντιστάσεων - 100τμχ.  
+Βασικό Κιτ Αντιστάσεων - 100τμχ.  €1.90 )
 
-Κάρτα μνήμης microSDHC 32GB Class 10 - SanDisk Ultra SDSQUA4-032G-GN6MA 
+Κάρτα μνήμης microSDHC 32GB Class 10 - SanDisk Ultra SDSQUA4-032G-GN6MA €6.80
 
 Πηγή τροφοδοσίας (μπαταρία + υποδοχή).Υπήρχε στο σχολείο.Ενδεικτικό κόστος περίπου 5 ευρώ
 
