@@ -369,7 +369,7 @@ https://www.youtube.com/c/MarvelHQ
 
 LCD MODULE Basic 16x2 Character LCD - White on Blue 5V (I2C Protocol) INTERFACE  €4.72
 
-Buzzer 5V €1.28
+Buzzer 5V €0.40
 
 Jumper Wires 15cm Female to Male - Pack of 10 (Mix)  €1.44 και κάποια υπήρχαν στο σχολείο.
 
