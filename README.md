@@ -472,6 +472,7 @@ CC BY 4.0
 
 
 **Στη σελίδα του έργου στο openedtech.ellak.gr**
+**https://openedtech.ellak.gr/robotics2025/unpektables-2o-gimnasio-chrisoupolis-o-thronos-pou-mas-axizi/**
 
 Στο blog του σχολείου μας
 **https://blogs.sch.gr/2gymchry/**
