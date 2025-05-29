@@ -10,6 +10,17 @@
 
 Η ομάδα μας, οι **¨UNπαικτΑBLES"** ετοίμασε ούτε μία ,ούτε δύο,  αλλά 13 προτάσεις μας για τη συμμετοχή μας στον 7ο Πανελλήνιο Διαγωνισμό Ανοιχτών Τεχνολογιών στην Εκπαίδευση
 
+### Άδειες Χρήσης
+
+Το εκπαιδευτικό υλικό διατίθεται υπό την άδεια  
+[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+
+Οι κώδικες για το QR generator και Arduino διατίθενται υπό την άδεια  
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+
+
+
 -----------
 **Περίληψη Έργου** 
 
