@@ -774,8 +774,16 @@ https://www.youtube.com/c/MarvelHQ
 
 
 Υπενθυμίζουμε ότι σε κάθε φάκελο του έργο μας στο GITHUB 
+
 **https://github.com/2o-gym-chrys/UNBEATABLES/blob/main/README.md**
+
 περιλαμβάνονται όλα όσα χρησιμοποιηθήκαν για  την ολοκλήρωσή του όπως, τα υλικά , φωτογραφίες,οι πλακέτες, οι QR κώδικες, το επιτραπέζιο παιχνίδι, οι κώδικες arduino κ.α.
+
+Επίσης 
+
+**Η παρουσίαση όλων των προτάσεών μας υπάρχει και στον παρακάτω σύνδεσμο με φωτογραφίες των παιδιών και βίντεο της παρουσίασης:**
+
+**https://openedtech.ellak.gr/robotics2025/unpektables-2o-gimnasio-chrisoupolis-o-thronos-pou-mas-axizi/**
 
 ---------------------
 
