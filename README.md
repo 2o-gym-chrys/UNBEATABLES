@@ -773,9 +773,11 @@ https://www.youtube.com/c/MarvelHQ
 
 
 
-Υπενθυμίζουμε ότι σε κάθε φάκελο του έργο μας στο GITHUB 
+**ΥΠΕΝΘΥΜΙΖΟΥΜΕ**
 
-**https://github.com/2o-gym-chrys/UNBEATABLES/blob/main/README.md**
+ότι σε κάθε φάκελο του έργο μας στο GITHUB 
+
+**https://github.com/2o-gym-chrys/UNBEATABLES**
 
 περιλαμβάνονται όλα όσα χρησιμοποιηθήκαν για  την ολοκλήρωσή του όπως, τα υλικά , φωτογραφίες,οι πλακέτες, οι QR κώδικες, το επιτραπέζιο παιχνίδι, οι κώδικες arduino κ.α.
 
